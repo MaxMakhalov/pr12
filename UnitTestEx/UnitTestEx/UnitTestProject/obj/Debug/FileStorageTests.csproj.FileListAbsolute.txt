@@ -1,0 +1,81 @@
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.pdb
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStor.2837AF47.Up2Date
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.api.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.core.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\NUnit3.TestAdapter.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\NUnit3.TestAdapter.pdb
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.api.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.core.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\testcentric.engine.metadata.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\NUnit3.TestAdapter.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.pdb
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.xml
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.AssemblyReference.cache
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CoreCompileInputs.cache
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStor.2837AF47.Up2Date
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.api.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.engine.core.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\FileStorage.pdb
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\bin\Debug\nunit.framework.xml
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.AssemblyReference.cache
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStorageTests.csproj.CoreCompileInputs.cache
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\FileStor.2837AF47.Up2Date
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\UnitTestProject\obj\Debug\UnitTestProject.pdb

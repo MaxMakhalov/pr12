@@ -1,0 +1,50 @@
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.sourcelink.json
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.core.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+C:\Users\Professional\Downloads\Worka\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.api.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.core.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.AssemblyReference.cache
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.sourcelink.json
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+D:\worka\0503\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.core.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.AssemblyReference.cache
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+C:\Users\Max\Downloads\Новая папка\LearnUnitTests-ForUnitTest2\UnitTestingExamples\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
